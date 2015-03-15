@@ -1,4 +1,11 @@
-javascript-constructions
-========================
+# javascript-constructions
 
-Javascript architectural solutions and Code reuse patterns
+## Summary
+Some javascript architectural solutions and Code reuse patterns from great book Good Parts of Javascript by Doug Crockford
+
+## Preconditions
+## Installation
+## Usage
+
+## Contributing
+2winsen
